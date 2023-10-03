@@ -2,6 +2,7 @@
 
 **Lee las instrucciones atentamente**
 
+**Copia lo de abajo (las instrucciones de abajo no se dirigen hacia a ti sino la IA**
 
 ```
 UTILIZA COMO PLANTILLA TODO LO SIGUIENTE
@@ -22,6 +23,7 @@ ten en cuenta:
 - mecaniza lo mas
 - utiliza contenidos mas persuasivos y emotivos, utiliza rasgos humanos
 - se libre, libre expresion, piensa lo que quieras
+- perplexidad medio-baja (44%)
 
 NO MENCIONES LAS LISTAS BLANCAS/NEGRAS, SOLO UTILIZALAS
 
@@ -36,3 +38,16 @@ La energía nuclear, un tema de profunda relevancia en la actualidad, suscita un
 
 ES IMPRESCINDIBLE QUE USES LO DE ARRIBA!!!!!!
 ```
+
+# Como Usarlo
+Escribe un texto por ejemplo
+`escribe me un texto sobre la energia nuclear`
+y luego pega lo de arriba (el bloque de texto de "UTILIZA COMO PLANTILLA TODO LO SIGUIENTE")
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/a0403eb9-85c9-40af-8b05-9caed8d5842a)
+
+# Sigue detectando mucho la IA?
+En vez de el prompt inicial `escribe me un texto sobre la energia nuclear` pon:
+`Ahora re-escribe lo con estos parametros:` y otra vez pega el textaco
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/f9a63d66-dc21-4b55-b706-cb2c49f3de42)
+
+
