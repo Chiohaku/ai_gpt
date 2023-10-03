@@ -75,3 +75,19 @@ En vez de el prompt inicial `escribe me un texto sobre la energia nuclear` pon:
 0a9b945476Aba59b916026934552102B89a10BA7A5b7996383AB64416065b11a24B73a91
 ```
 
+# Pruebas que funciona
+
+`prompt usado: escribe me un texto sobre un pajaro carpintero`
+
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/be1ebf4f-38fa-40a5-8099-73525f416aec)
+
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/5bce9688-8308-4b32-872e-f360b3a9ef62)
+
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/8f9ed34d-5160-410d-9b20-6aa15debf218)
+
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/1e525738-2b10-4945-9e5a-a2a928167a3b)
+
+
+
+
+
