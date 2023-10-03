@@ -44,19 +44,22 @@ Escribe un texto por ejemplo
 `escribe me un texto sobre la energia nuclear`
 y luego pega lo de arriba (el bloque de texto de "UTILIZA COMO PLANTILLA TODO LO SIGUIENTE")
 
-![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/a0403eb9-85c9-40af-8b05-9caed8d5842a)
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/34931292-0b2b-4d65-9cf4-871a1297c77c)
+
 
 # Sigue detectando mucho la IA?
 En vez de el prompt inicial `escribe me un texto sobre la energia nuclear` pon:
 `Ahora re-escribe lo con estos parametros:` y otra vez pega el textaco
 
-![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/f9a63d66-dc21-4b55-b706-cb2c49f3de42)
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/3bf2ae1e-ec6d-48cb-ba0c-fc9fb68c755b)
+
 
 
 # SEMILLAS RANDOM EN CASO DE QUE LA IA SE RALLE
 ## Simplemente reemplaza lo que va detras de "SSEM" con una de ellas
 
-![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/2a4f4f0b-41f0-4e3a-8081-8fd3072a264d)
+![image](https://github.com/Chiohaku/ai_gpt/assets/146854665/08c6df31-3e66-473a-8e9a-87de2f467b5d)
+
 
 
 ```
